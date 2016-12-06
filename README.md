@@ -20,22 +20,22 @@
 MilSim Trainingsmap von Raychan und JeyTheFreak </br>
 Unterstützt von HighPing.
 
-###Momentane Features:
+###Momentane Features:<ul>
 
-<li>Schießhaus<ul>Zum üben von Teamfertigkeiten für ein 2 Mann Team.
-<li>Schießplatz<ul>Zum einschießen von Waffen von 5m bis 2000m und Granaten bis 150m. Sowie mit Event System.
+<li>Schießhaus<ul>Zum üben von Teamfertigkeiten für ein 2 Mann Team.</ul></li>
+<li>Schießplatz<ul>Zum einschießen von Waffen von 5m bis 2000m und Granaten bis 150m. Sowie mit Event System.</ul></li>
+</ul>
+###Geplante Features:<ul>
 
-###Geplante Features:
+<li>Spreng Trainingsplatz<ul>EOD Übungsplatz zum kennenlernen von verschiedene Sprengstoffen und Minen.</ul></li>
+<li>Luftwaffe Schießplatz<ul>Zum Trainieren von Luftboden angriffe bzw CAS.</ul></li>
+<li>Aufklärungs % JTAC platz<ul>Zum üben der Feinderkennung und richtiger Information weitergabe.</ul></li>
+</ul>
+###Benötigte Mods:<ul>
 
-<li>Spreng Trainingsplatz<ul>EOD Übungsplatz zum kennenlernen von verschiedene Sprengstoffen und Minen.
-<li>Luftwaffe Schießplatz<ul>Zum Trainieren von Luftboden angriffe bzw CAS.
-<li>Aufklärungs % JTAC platz<ul>Zum üben der Feinderkennung und richtiger Information weitergabe.
-
-###Benötigte Mods:
-
-<li>ACE<ul>https://github.com/acemod/ACE3/releases/tag/v3.8.2
-<li>ACEX<ul>https://github.com/acemod/ACEX/releases/tag/v3.1.1
-<li>TFAR<ul>https://github.com/michail-nikolaev/task-force-arma-3-radio/releases
-<li>CBA<ul>https://github.com/CBATeam/CBA_A3/releases
-
+<li>ACE<ul>https://github.com/acemod/ACE3/releases/tag/v3.8.2</ul></li>
+<li>ACEX<ul>https://github.com/acemod/ACEX/releases/tag/v3.1.1</ul></li>
+<li>TFAR<ul>https://github.com/michail-nikolaev/task-force-arma-3-radio/releases</ul></li>
+<li>CBA<ul>https://github.com/CBATeam/CBA_A3/releases</ul></li>
+</ul>
 
