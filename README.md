@@ -23,13 +23,14 @@ Unterstützt von HighPing.
 ###Momentane Features:<ul>
 
 <li>Schießhaus<ul>Zum üben von Teamfertigkeiten für ein 2 Mann Team.</ul></li>
-<li>Schießplatz<ul>Zum einschießen von Waffen von 5m bis 2000m und Granaten bis 150m. Sowie mit Event System.</ul></li>
+<li>Schießanlage<ul>Zum einschießen von Waffen von 5m bis 2000m und Granaten bis 150m. Sowie mit Event System.</ul></li>
 </ul>
 ###Geplante Features:<ul>
 
-<li>Spreng Trainingsplatz<ul>EOD Übungsplatz zum kennenlernen von verschiedene Sprengstoffen und Minen.</ul></li>
+<li>EOD Übungsplatz<ul>EOD Übungsplatz zum kennenlernen von verschiedene Sprengstoffen und Minen.</ul></li>
 <li>Luftwaffe Schießplatz<ul>Zum Trainieren von Luftboden angriffe bzw CAS.</ul></li>
 <li>Aufklärungs % JTAC platz<ul>Zum üben der Feinderkennung und richtiger Information weitergabe.</ul></li>
+<li>Panzerfahr Übungsplatz<ul>Zum üben von Panzer fahren aus der EGO Perspektive.</ul></li>
 </ul>
 ###Benötigte Mods:<ul>
 
