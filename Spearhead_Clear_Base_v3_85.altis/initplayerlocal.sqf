@@ -55,13 +55,13 @@ port_teleport_P addAction ["<t size='1.3' shadow='2' >Logistik</t>", {player set
 port_teleport_F addAction ["<t size='1.3' shadow='2' >Logistik</t>", {player setposasl [getmarkerpos "Logistik" select 0,getmarkerpos "Logistik" select 1,1.5];}, [], 5, true, true, "","alive _target"];
 port_teleport_T addAction ["<t size='1.3' shadow='2' >Logistik</t>", {player setposasl [getmarkerpos "Logistik" select 0,getmarkerpos "Logistik" select 1,1.5];}, [], 5, true, true, "","alive _target"];
 
-//Port to Trainingsplatz
-port_teleport_A addAction ["<t size='1.3' shadow='2' >Trainingsplatz</t>", {player setposasl [getmarkerpos "Trainingsplatz" select 0,getmarkerpos "Trainingsplatz" select 1,1.5];}, [], 5, true, true, "","alive _target"];
-port_teleport_S addAction ["<t size='1.3' shadow='2' >Trainingsplatz</t>", {player setposasl [getmarkerpos "Trainingsplatz" select 0,getmarkerpos "Trainingsplatz" select 1,1.5];}, [], 5, true, true, "","alive _target"];
-port_teleport_M addAction ["<t size='1.3' shadow='2' >Trainingsplatz</t>", {player setposasl [getmarkerpos "Trainingsplatz" select 0,getmarkerpos "Trainingsplatz" select 1,1.5];}, [], 5, true, true, "","alive _target"];
-port_teleport_P addAction ["<t size='1.3' shadow='2' >Trainingsplatz</t>", {player setposasl [getmarkerpos "Trainingsplatz" select 0,getmarkerpos "Trainingsplatz" select 1,1.5];}, [], 5, true, true, "","alive _target"];
-port_teleport_F addAction ["<t size='1.3' shadow='2' >Trainingsplatz</t>", {player setposasl [getmarkerpos "Trainingsplatz" select 0,getmarkerpos "Trainingsplatz" select 1,1.5];}, [], 5, true, true, "","alive _target"];
-port_teleport_L addAction ["<t size='1.3' shadow='2' >Trainingsplatz</t>", {player setposasl [getmarkerpos "Trainingsplatz" select 0,getmarkerpos "Trainingsplatz" select 1,1.5];}, [], 5, true, true, "","alive _target"];
+//Port to Schiessanlage
+port_teleport_A addAction ["<t size='1.3' shadow='2' >Schiessanlage</t>", {player setposasl [getmarkerpos "Schiessanlage" select 0,getmarkerpos "Schiessanlage" select 1,1.5];}, [], 5, true, true, "","alive _target"];
+port_teleport_S addAction ["<t size='1.3' shadow='2' >Schiessanlage</t>", {player setposasl [getmarkerpos "Schiessanlage" select 0,getmarkerpos "Schiessanlage" select 1,1.5];}, [], 5, true, true, "","alive _target"];
+port_teleport_M addAction ["<t size='1.3' shadow='2' >Schiessanlage</t>", {player setposasl [getmarkerpos "Schiessanlage" select 0,getmarkerpos "Schiessanlage" select 1,1.5];}, [], 5, true, true, "","alive _target"];
+port_teleport_P addAction ["<t size='1.3' shadow='2' >Schiessanlage</t>", {player setposasl [getmarkerpos "Schiessanlage" select 0,getmarkerpos "Schiessanlage" select 1,1.5];}, [], 5, true, true, "","alive _target"];
+port_teleport_F addAction ["<t size='1.3' shadow='2' >Schiessanlage</t>", {player setposasl [getmarkerpos "Schiessanlage" select 0,getmarkerpos "Schiessanlage" select 1,1.5];}, [], 5, true, true, "","alive _target"];
+port_teleport_L addAction ["<t size='1.3' shadow='2' >Schiessanlage</t>", {player setposasl [getmarkerpos "Schiessanlage" select 0,getmarkerpos "Schiessanlage" select 1,1.5];}, [], 5, true, true, "","alive _target"];
 
 //HALO Sprung
 port_halosprung addaction ["<t size='1.3' shadow='2' >HALO Sprung</t>","scripts\HALO_Sprung\HALO_Sprung.sqf"];
