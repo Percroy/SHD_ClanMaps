@@ -17,7 +17,7 @@ OnLoadMission = "Dies ist unsere Clanmap für internes Training oder Missionen i
 
 DisabledAI		= 1;			// <!-- Wenn auf 0: Dann wird in den Spielerslot KI zugeschaltet
 joinUnassigned	= 0;			// <!-- Wenn auf 0: Dann wird beim join auf den ersten Freienplatz gesetzt
-disableChannels[]	={1};		// <!-- Beschränke die Chatkanäle (0=Global),(1=Side),(2=Command),(3=Group),(4=Vehicle),(5=Direct),(6=System)
+disableChannels[]	= {1};		// <!-- Beschränke die Chatkanäle (0=Global),(1=Side),(2=Command),(3=Group),(4=Vehicle),(5=Direct),(6=System)
 enableDebugConsole	= 1;		// <!-- Konsole Aktivieren (0=disabled),(1=Admins Only),(2=Everyone)
 showGPS			= 1;			// <!-- Wenn auf 1: GPS zulassen
 showCompass		= 1;			// <!-- Wenn auf 1: Compass zulassen
