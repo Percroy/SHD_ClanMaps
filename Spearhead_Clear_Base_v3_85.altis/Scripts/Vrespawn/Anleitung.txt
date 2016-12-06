@@ -1,0 +1,8 @@
+
+Schneller Respawn bei Fahrzeug nicht benutzung
+
+veh = [this, 15, 50] execVM "scripts\Vrespawn\vehicle.sqf";
+
+Langsamer Respawn bei Fahrzeug nicht benutzung
+
+veh = [this, 1800, 5000000] execVM "scripts\Vrespawn\vehicle.sqf";

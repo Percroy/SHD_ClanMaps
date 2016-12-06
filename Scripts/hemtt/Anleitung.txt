@@ -1,7 +1,0 @@
-Für den LKW "B_Truck_01_mover_F" Ohne Container
-
-this addaction ["Container aufladen", "scripts\hemtt\load.sqf", [0,-2.7,1.05]];
-
-
-
-Achtung beim verschieben der sqf in den scripten den Pfad ändern!!!!

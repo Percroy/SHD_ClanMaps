@@ -1,5 +1,0 @@
-Fahrzeug beleuchtung
-
-init.sqf
-
-nul=[] execVM "IntLight.sqf";

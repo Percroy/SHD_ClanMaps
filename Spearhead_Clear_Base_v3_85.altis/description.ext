@@ -1,0 +1,39 @@
+//////////////////////////////////////////
+//										//
+//		Spearhead Division				//
+//		  Author: RayChan				//
+//										//
+//////////////////////////////////////////
+
+author="RayChan und JeyTheFreak";
+OnLoadName = "Spearhead Division";
+loadScreen = "Bilder\loadescreen.jpg";
+OnLoadMission = "Dies ist unsere Clanmap für internes Training oder Missionen imports auf Altis. Hier wird Milsim Trainiert und mit ACE geübt. Ich bitte Sie darum Task Force Arrowhead Radio zu nutzen.";
+
+//Gui-Menü
+#include "gui\defines.hpp"					// <!-- Gui Datenbank
+#include "gui\HALO_Sprung\dialog.hpp"		// <!-- HALO Sprung Menü
+
+
+DisabledAI		= 1;			// <!-- Wenn auf 0: Dann wird in den Spielerslot KI zugeschaltet
+joinUnassigned	= 0;			// <!-- Wenn auf 0: Dann wird beim join auf den ersten Freienplatz gesetzt
+disableChannels[]	={1};		// <!-- Beschränke die Chatkanäle (0=Global),(1=Side),(2=Command),(3=Group),(4=Vehicle),(5=Direct),(6=System)
+enableDebugConsole	= 1;		// <!-- Konsole Aktivieren (0=disabled),(1=Admins Only),(2=Everyone)
+showGPS			= 1;			// <!-- Wenn auf 1: GPS zulassen
+showCompass		= 1;			// <!-- Wenn auf 1: Compass zulassen
+showWatch		= 1;			// <!-- Wenn auf 1: Watch zulassen
+saving = 0;						// <!-- Wenn auf 0: Spielstand Speicherung deaktiviert
+
+class Header 
+{
+	maxPlayers = 25;			// <!-- Maximale Spieler Anzahl auf dem Host/Server
+	minPlayers = 1;				// <!-- Minimale Spieler Anzahl für Missionsstart
+	gameType = COOP;			// <!-- Spielmodus
+};
+
+respawn = "BASE";						// <!-- Standard Respawn (INSTANT) -> An der selben stelle
+respawnDelay = 5;						// <!-- Respawn Zeit
+respawnDialog = false;					// <!-- Punktetabelle im todesbildschirm
+//respawnonStart = 0;					// <!-- Respawn Menü nach den Joinen
+//respawnTemplates[] = {"Menuposition"};// <!-- Respawn Menü
+
